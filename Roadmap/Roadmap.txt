@@ -1,0 +1,63 @@
+10 years of experience React Native developer should have the skills
+
+1. Core React Native Expertise
+  Deep knowledge of React Native internals (bridge, Fabric, TurboModules, Hermes engine).
+  Strong command over JavaScript (ES6+) & TypeScript.
+  Advanced React concepts: hooks, context, HOCs, state management.
+  Performance optimization: lazy loading, memoization, avoiding re-renders.
+  Deep knowledge of navigation (React Navigation, deep linking, stack/tab/drawer).
+  Experience with animation libraries (Reanimated, Gesture Handler, Lottie).
+
+2. Mobile-Specific Knowledge
+  Native module development (Swift/Objective-C for iOS, Java/Kotlin for Android).
+  Integration with platform APIs (camera, sensors, push notifications, biometrics, background services).
+  Offline-first strategies (SQLite, Realm, WatermelonDB, AsyncStorage).
+  Handling app lifecycle events and background tasks.
+  App performance profiling (Flipper, Android Profiler, Xcode Instruments).
+
+3. Architecture & State Management
+  Expertise in Redux Toolkit, MobX, Zustand, Recoil, RTK Query.
+  Scalable architecture: MVVM, Clean Architecture, Hexagonal, Modular Monorepo.
+  Code-level patterns: Repository, Observer, Dependency Injection.
+  Separation of concerns: UI layer vs business logic vs data layer.
+
+4. Testing & Quality
+  Unit testing (Jest, React Native Testing Library).
+  E2E testing (Detox, Appium).
+  Snapshot testing.
+  CI/CD pipeline integration with testing stages.
+  Code review best practices, static analysis (ESLint, TypeScript, Prettier).
+
+5. DevOps & Deployment
+  CI/CD: GitHub Actions, Bitrise, CircleCI, Fastlane.
+  App signing, provisioning profiles, certificates.
+  OTA updates with CodePush or Expo Updates.
+  Experience with App Store / Play Store publishing and release pipelines.
+  Monitoring tools: Firebase Crashlytics, Sentry, Instabug.
+
+6. Cloud & Backend Integration
+  RESTful APIs, GraphQL (Apollo, URQL).
+  Realtime updates (WebSockets, Firebase, MQTT).
+  AWS Amplify, Firebase, or custom backend integration.
+  Authentication/Authorization: JWT, OAuth2, biometric auth.
+  Payment integration (Stripe, Razorpay, Apple Pay, Google Pay).
+
+7. UI/UX Excellence
+  Pixel-perfect implementation from Figma/Sketch/Zeplin.
+  Responsive design for different screen sizes & orientations.
+  Accessibility (a11y) standards, internationalization (i18n).
+  Dark mode, theming, and design system implementation.
+
+8. Leadership & Soft Skills
+  Leading a team of 5–20 developers.
+  Conducting code reviews & mentoring junior/mid-level devs.
+  Estimating effort, sprint planning, Agile/Scrum practices.
+  Cross-team collaboration with backend, QA, product managers, designers.
+  Strong problem-solving & debugging mindset.
+
+9. Emerging & Advanced Skills
+  Experience with Expo SDK vs Bare Workflow trade-offs.
+  Micro-frontends / Micro-apps in mobile.
+  Cross-platform beyond React Native (Flutter, Kotlin Multiplatform) awareness.
+  AR/VR (ARKit, ARCore), Wearables, TV apps if relevant.
+  Security best practices (obfuscation, SSL pinning, secure storage).
